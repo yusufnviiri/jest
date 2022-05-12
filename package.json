@@ -1,0 +1,19 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calc.js",
+  "scripts": {
+    "test": "jest"
+   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusufnviiri/jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yusufnviiri/jest/issues"
+  },
+  "homepage": "https://github.com/yusufnviiri/jest#readme"
+}
